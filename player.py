@@ -19,6 +19,8 @@ class Player:
 
         self.score = 0
 
+        self.lives = 3
+
     def handle_input(self):
         """Считывание нажатий клавиш"""
         keys = pygame.key.get_pressed()

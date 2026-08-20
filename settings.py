@@ -9,7 +9,7 @@ GRID_HEIGHT = 28
 SCREEN_WIDTH = GRID_WIDTH * TILE_SIZE
 SCREEN_HEIGHT = GRID_HEIGHT * TILE_SIZE
 
-FPS = 30
+FPS = 60
 
 # ==========================================
 # Цвета (RGB)
